@@ -9,6 +9,7 @@
 Plugin ini menambahkan opsi pengaturan letter case langsung pada komponen Text Field, yang sebelumnya tidak tersedia di versi standar.
 
 🎯 **Letter Case Options**:
+
 🔡 **Lowercase** — Mengubah semua karakter input menjadi huruf kecil.
 contoh: JOGEt ➡ joget
 
