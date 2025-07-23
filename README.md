@@ -1,8 +1,10 @@
 👑 **Monarch**
 
+
 🧩 **Joget Text Field Enhanced Plugin**
 
 **Joget Text Field Enhanced Plugin** adalah pengembangan dari plugin Text Field bawaan pada platform Joget DX. Plugin ini menambahkan kemampuan baru dalam mengatur letter case (format huruf) pada input teks, memberikan fleksibilitas dan kontrol yang lebih besar bagi pengguna dalam membangun aplikasi Joget.
+
 
 ✨ **Fitur Baru**
 
@@ -18,6 +20,7 @@ contoh: joget ➡ JOGET
 
 🅰️ **Capitalize** — Mengubah huruf pertama setiap kata menjadi huruf kapital.
 contoh: joget enhanced plugin ➡ Joget Enhanced Plugin
+
 
 
 ⚙️ **Cara Penggunaan**
@@ -36,12 +39,14 @@ contoh: joget enhanced plugin ➡ Joget Enhanced Plugin
    
 Simpan dan gunakan form seperti biasa.
 
+
 📦 **Instalasi**
 
 1. Clone atau unduh repository ini.
 2. Compile menggunakan Maven:
 3. **mvn clean install**
 4. File JAR yang dihasilkan (*.jar) dapat langsung di-upload ke Joget melalui menu Manage Plugins.
+
 
 🧱 **Kompatibilitas**
 
