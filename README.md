@@ -24,10 +24,12 @@ contoh: joget enhanced plugin ➡ Joget Enhanced Plugin
 1. Import plugin ke dalam platform Joget DX Anda.
 2. Tambahkan komponen Text Field ke dalam form.
 3. Pada konfigurasi komponen, pilih opsi Letter Case sesuai kebutuhan:
-  1. None (default)
-  2. Lowercase
-  3. Uppercase
-  4. Capitalize
+
+   None (default)
+   Lowercase
+   Uppercase
+   Capitalize
+   
 Simpan dan gunakan form seperti biasa.
 
 📦 **Instalasi**
@@ -40,7 +42,9 @@ Simpan dan gunakan form seperti biasa.
 🧱 **Kompatibilitas**
 
 Joget DX 7+
+
 Java 8+
+
 Maven 3+
 
 
