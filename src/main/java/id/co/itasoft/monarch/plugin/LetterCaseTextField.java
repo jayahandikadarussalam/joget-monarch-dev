@@ -10,7 +10,7 @@ import org.joget.commons.util.StringUtil;
 import java.util.Map;
 
 public class LetterCaseTextField extends TextField {
-    private String pluginName = "MONARCH - Letter Case Text Field";
+    private String pluginName = "Letter Case Text Field";
 
     @Override
     public String getName() {
