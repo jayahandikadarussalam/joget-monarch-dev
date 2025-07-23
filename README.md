@@ -26,8 +26,11 @@ contoh: joget enhanced plugin ➡ Joget Enhanced Plugin
 3. Pada konfigurasi komponen, pilih opsi Letter Case sesuai kebutuhan:
 
    None (default)
+   
    Lowercase
+   
    Uppercase
+   
    Capitalize
    
 Simpan dan gunakan form seperti biasa.
