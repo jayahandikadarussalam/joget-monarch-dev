@@ -1,4 +1,4 @@
-**Monarch**
+👑 **Monarch**
 
 🧩 **Joget Text Field Enhanced Plugin**
 
