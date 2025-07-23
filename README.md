@@ -11,8 +11,10 @@ Plugin ini menambahkan opsi pengaturan letter case langsung pada komponen Text F
 🎯 **Letter Case Options**:
 🔡 **Lowercase** — Mengubah semua karakter input menjadi huruf kecil.
 contoh: JOGEt ➡ joget
+
 🔠 **Uppercase** — Mengubah semua karakter input menjadi huruf besar.
 contoh: joget ➡ JOGET
+
 🅰️ **Capitalize** — Mengubah huruf pertama setiap kata menjadi huruf kapital.
 contoh: joget enhanced plugin ➡ Joget Enhanced Plugin
 
@@ -22,18 +24,18 @@ contoh: joget enhanced plugin ➡ Joget Enhanced Plugin
 1. Import plugin ke dalam platform Joget DX Anda.
 2. Tambahkan komponen Text Field ke dalam form.
 3. Pada konfigurasi komponen, pilih opsi Letter Case sesuai kebutuhan:
-  a. None (default)
-  b. Lowercase
-  c. Uppercase
-  d. Capitalize
+  1. None (default)
+  2. Lowercase
+  3. Uppercase
+  4. Capitalize
 Simpan dan gunakan form seperti biasa.
 
 📦 **Instalasi**
 
-Clone atau unduh repository ini.
-Compile menggunakan Maven:
-**mvn clean install**
-File JAR yang dihasilkan (*.jar) dapat langsung di-upload ke Joget melalui menu Manage Plugins.
+1. Clone atau unduh repository ini.
+2. Compile menggunakan Maven:
+3. **mvn clean install**
+4. File JAR yang dihasilkan (*.jar) dapat langsung di-upload ke Joget melalui menu Manage Plugins.
 
 🧱 **Kompatibilitas**
 
